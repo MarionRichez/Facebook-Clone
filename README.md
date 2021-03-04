@@ -2,7 +2,7 @@
 
 A Facebook clone.
 
-[Live Demo](https://facebook-clone-1a92e.web.app/).
+[Live Demo](https://facebook-clone-1a92e.web.app/)
 
 ## Getting Started
 
