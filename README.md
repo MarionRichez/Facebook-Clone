@@ -51,7 +51,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ## Built With
 
-* [Firebase](https://firebase.google.com/) - Authentification and Hosting
 * [ReactJs](https://fr.reactjs.org/) - The web framework used
 
 ## Authors
