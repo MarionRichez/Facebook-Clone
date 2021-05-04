@@ -1,3 +1,5 @@
+![Facebook Clone](https://raw.githubusercontent.com/MarionRichez/project-facebook-clone/master/Facebook%20Clone.png)
+
 # Facebook Clone
 
 A Facebook clone.
