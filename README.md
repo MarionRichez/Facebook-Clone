@@ -1,10 +1,10 @@
-![Facebook Clone](https://raw.githubusercontent.com/MarionRichez/project-facebook-clone/master/Facebook%20Clone.png)
+![Facebook Clone](https://github.com/MarionRichez/project-facebook-clone/blob/master/fb-clone/public/facebook-clone.png)
 
 # Facebook Clone
 
 A Facebook clone.
 
-[Live Demo](https://facebook-clone-1a92e.web.app/)
+[Live Demo](https://facebook-clone.marion-richez.be/)
 
 ## Getting Started
 
