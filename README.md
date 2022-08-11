@@ -4,7 +4,7 @@
 
 A Facebook clone.
 
-[Live Demo](https://facebook-clone.marion-richez.be/)
+[Live Demo](https://facebook-clone-1a92e.web.app/)
 
 ## Getting Started
 
